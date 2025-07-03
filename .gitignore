@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.txt
+*.pth
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editors
+.vscode/ # VS Code settings specific to your machine
+.idea/   # IntelliJ IDEA settings
+*.sublime-project
+*.sublime-workspace
+.DS_Store # macOS specific file
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/ # Jupyter checkpoints
+*.ipynb_checkpoints # Old name for checkpoints
+
+# Windows thumbnail caches
+Thumbs.db
+
+# Misc
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+.mypy_cache/
+
+# Environment variables
+.env
