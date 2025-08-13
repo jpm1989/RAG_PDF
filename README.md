@@ -14,5 +14,5 @@ Extracting data from PDF using LLM.
 
 
 
-Advanced RAG - Query Expansion + Re-ranking
+Advanced RAG = Query Expansion + Re-ranking
 
